@@ -8,6 +8,7 @@ import 'script!what-input'
 import 'script!foundation-sites'
 
 import 'foundation-sites/dist/css/foundation.css'
+import 'foundation-sites/dist/css/foundation-flex.css'
 
 /* eslint-disable no-new */
 new Vue({
