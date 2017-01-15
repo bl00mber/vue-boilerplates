@@ -7,8 +7,7 @@ import 'script!jquery'
 import 'script!what-input'
 import 'script!foundation-sites'
 
-import 'foundation-sites/dist/css/foundation.css'
-import 'foundation-sites/dist/css/foundation-flex.css'
+import './assets/assets/foundation-flex.scss'
 
 /* eslint-disable no-new */
 new Vue({

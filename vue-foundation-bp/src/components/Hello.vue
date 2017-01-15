@@ -30,14 +30,8 @@
     </div>
 
     <div class="row">
-      <div class="column flex-container flex-dir-column">
-        <div class="callout flex-child-auto">Auto</div>
-        <div class="callout flex-child-auto">Auto</div>
-        <div class="callout flex-child-shrink">Shrink</div>
-      </div>
-      <div class="column">
-      </div>
-      <div class="column align-self-top">Align top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non harum laborum cum voluptate vel, eius adipisci similique dignissimos nobis at excepturi incidunt fugit molestiae quaerat, consequuntur porro temporibus. Nisi, ex?Align top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non harum laborum cum voluptate vel, eius adipisci similique dignissimos nobis at excepturi incidunt fugit molestiae quaerat, consequuntur porro temporibus. Nisi, ex?Align top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non harum laborum cum voluptate vel, eius adipisci similique dignissimos nobis at excepturi incidunt fugit molestiae quaerat, consequuntur porro temporibus. Nisi, ex?</div>
+      <div class="shrink columns">Shrink!</div>
+      <div class="columns">Expand!</div>
     </div>
   </div>
 </template>
